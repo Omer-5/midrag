@@ -17,5 +17,7 @@ pip install -r requirements-CRAWLING.txt
 
 ```
 
+[Installation guide for Geckodriver- only for scrapping](https://github.com/mozilla/geckodriver/releases/tag/v0.32.0)
+
 
 
