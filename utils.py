@@ -13,3 +13,11 @@ def Sort_Reviews_CSV():
     df_reviews = pd.read_csv(f"data/{filename}")
     df_reviews.sort_values(by=['Category', 'Subcategory', 'Date'],inplace=True, ascending=[True, True, False])
     Save_CSV(filename, df_reviews)
+
+def Get_All_CSV_Names():
+    CSV_name = "all_categories.csv"
+    df = pd.read_csv(f"data/{CSV_name}") 
+    df_to_scan = df.loc[df["Is Relevant"] == 1]
+    return df_to_scan["Category Name"].unique()
+
+
