@@ -23,4 +23,5 @@ def Sort_Reviews_CSV():
 def Get_All_CSV_Names():
     CSV_name = "all_categories.csv"
     df = pd.read_csv(f"data/{CSV_name}") 
-    df_to_scan = df.loc[df["Is Relevant"] == 1] return df_to_scan["Category Name"].unique()
+    df_to_scan = df.loc[df["Is Relevant"] == 1] 
+    return df_to_scan["Category Name"].unique()
