@@ -29,7 +29,7 @@ We (@Omer-5, @smooth3x) set out to explore the possibility of predicting year-ov
     ## Video Presentation
     https://www.youtube.com/watch?v=I-aDGSpyvzs
 
-    [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/I-aDGSpyvzs/0.jpg)](http://www.youtube.com/watch?v=I-aDGSpyvzs)
+    [![video presentation](http://img.youtube.com/vi/I-aDGSpyvzs/0.jpg)](http://www.youtube.com/watch?v=I-aDGSpyvzs)
 
 
 # Installation
