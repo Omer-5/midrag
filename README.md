@@ -16,7 +16,7 @@ We (@Omer-5, @smooth3x) set out to explore the possibility of predicting year-ov
     * Plot the data by year to reveal inconsistent data because of covid-19.
     * Plot the data by  region to illustrate growth was not even across the country.
     * Used `Vincent`, `Folium` and [OpenStreetMap's](www.openstreetmap.org) API to create a map showing growth for the top 10 cities with most reviews.
-    * Analyze the difference between confidential and non-confidential reviews using word cloud and bar graphs - confidential reviews made up a significant portion of negative scores, vastly out weighting they proportion of total reviews
+    * Analyze the difference between confidential and non-confidential reviews using word cloud and bar graphs- confidential reviews made up a significant portion of negative scores, vastly out weighting they proportion of total reviews
     <br><br>
 4. Machine Learning:
 
